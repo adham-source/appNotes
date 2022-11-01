@@ -1,0 +1,7 @@
+{
+    "scripts": {
+        "api:build": "cd app-notes-api && npx tsc",
+        "api:start": "cd app-notes-api && npm run start",
+        "api:dev": "cd app-notes-api && npm run dev"
+    }
+}
